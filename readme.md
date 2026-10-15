@@ -35,8 +35,8 @@ Prof. Dr. Luani de Oliveira Rosa Piva
 
 ## Data Sources
 
-  * `precos_carros_brasil.csv`: Main dataset containing information about various car models, their characteristics (brand, model, year, engine, transmission, fuel, etc.), and prices.
-  * `metadados.xlsx - metadados.csv`: File containing the description of the columns present in the main dataset, aiding in the understanding of the variables.
+  * `data/precos_carros_brasil.csv`: Main dataset containing information about various car models, their characteristics (brand, model, year, engine, transmission, fuel, etc.), and prices.
+  * `data/metadados.xlsx`: File containing the description of the columns present in the main dataset, aiding in the understanding of the variables.
   * The original dataset was extracted from the [Kaggle](https://www.kaggle.com/datasets/vagnerbessa/average-car-prices-bazil/data) website. It was adapted for use in this exercise.
 
 -----
